@@ -12,7 +12,7 @@
 - **관련 주피터 노트북**:
   - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/1X9xJwys19haJ7vzMCGWP5JlxkoK-XvrT?usp=sharing)
 - **시연 이미지**:  
-[유동인구 카운트 영상](https://github.com/goguma999/pilot/blob/main/count/sjk.jpg)]
+![시연 이미지](https://github.com/goguma999/pilot/blob/main/count/sjk.jpg?raw=true)
 
 ---
 
