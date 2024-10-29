@@ -12,7 +12,7 @@
 - **관련 주피터 노트북**:
   - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/1X9xJwys19haJ7vzMCGWP5JlxkoK-XvrT?usp=sharing)
 - **시연 이미지**:  
-![시연 이미지](https://github.com/goguma999/pilot/blob/main/%ED%8F%90%EA%B2%B0%EC%A0%88.png)
+![시연 이미지](https://github.com/goguma999/pilot/blob/main/count/sjk.jpg?raw=true)
 
 ---
 
@@ -23,7 +23,7 @@
 - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/1X9xJwys19haJ7vzMCGWP5JlxkoK-XvrT?usp=sharing)
 
 - **시연 이미지**:  
-![시연 이미지](https://github.com/goguma999/pilot/blob/main/count/sjk.jpg?raw=true)
+![시연 이미지](https://github.com/goguma999/pilot/blob/main/%ED%8F%90%EA%B2%B0%EC%A0%88.png)
 
 ---
 
