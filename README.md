@@ -20,7 +20,7 @@
 - **프로젝트 설명**: 이 프로젝트는 X-ray 사진을 분석하여 폐결절을 자동으로 탐지하고, 의료진이 더 정확한 진단을 내리는 데 도움을 주기 위해 신경망 모델을 개발하는 것을 목표로 합니다. 주로 딥러닝 기반의 CNN(Convolutional Neural Network) 모델을 사용하여 엑스레이 이미지에서 폐결절을 분류하고, 위치를 표시합니다.
 - **주요 기능**: 폐결정 자동 탐지 
 - **관련 주피터 노트북**:
-- [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/1X9xJwys19haJ7vzMCGWP5JlxkoK-XvrT?usp=sharing)
+- [구글 코렙 주피터 노트북](https://drive.google.com/file/d/12_BvcL8c3BNtqh_v3IL8sWAiPTJVjrnO/view?usp=sharing)
 
 - **시연 이미지**:  
 ![시연 이미지](https://github.com/goguma999/pilot/blob/main/%ED%8F%90%EA%B2%B0%EC%A0%88.png)
