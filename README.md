@@ -1,13 +1,13 @@
 # ML/DL STUDY
 ## ML 
 - 머신러닝을 위한 수학: 퍼셉트론, KNN 모델, 나이브 베이즈, 정보획득량(지니계수, 엔트로피) 🗒️ [노트](https://changeable-yacht-8d2.notion.site/00-75cd73fc8bf24bdbbadb73a11d8c5d1c?pvs=4)
-- KNN 🗒️ [python](https://changeable-yacht-8d2.notion.site/089-1-knn-24da543dc20a46f190ae286747d749c5?pvs=4)
-- 나이브 베이즈 🗒️ [python](https://changeable-yacht-8d2.notion.site/090-2-d27890027a104351921ba695abd2c998?pvs=4)
-- 의사결정트리, 랜덤포레스트 🗒️ [분류](https://changeable-yacht-8d2.notion.site/091-3-e4b3d119dead4e788f1e02c788c98eca?pvs=4) [예측](https://changeable-yacht-8d2.notion.site/097-9-2c90382113be442ea7e058773bf865da?pvs=4)
-- 신경망 🗒️ [분류](https://changeable-yacht-8d2.notion.site/092-4-e3ca2e8b725f446289cc05a41dd67dd2?pvs=4) [예측](https://changeable-yacht-8d2.notion.site/096-8-ff86f5fde20a4b7fb2bbc1f60a6cf256?pvs=4)
-- 로지스틱 회귀, SVM 🗒️ [python](https://changeable-yacht-8d2.notion.site/093-5-813cfc3afde441eaa2b1686720f654b8?pvs=4)
-- 다중 회귀 🗒️ [python](https://changeable-yacht-8d2.notion.site/094-6-6b01fba32f1a437db984ad05de03b1ef?pvs=4)
-- 단순 회귀 🗒️ [python](https://changeable-yacht-8d2.notion.site/095-7-9f144e7ee835416e80c1634602ded779?pvs=4)
+- KNN 🗒️ [노트](https://changeable-yacht-8d2.notion.site/089-1-knn-24da543dc20a46f190ae286747d749c5?pvs=4)
+- 나이브 베이즈 🗒️ [노트](https://changeable-yacht-8d2.notion.site/090-2-d27890027a104351921ba695abd2c998?pvs=4)
+- 의사결정트리, 랜덤포레스트 🗒️ [노트1(분류)](https://changeable-yacht-8d2.notion.site/091-3-e4b3d119dead4e788f1e02c788c98eca?pvs=4) 🗒️ [노트2(예측)](https://changeable-yacht-8d2.notion.site/097-9-2c90382113be442ea7e058773bf865da?pvs=4)
+- 신경망 🗒️ [노트](https://changeable-yacht-8d2.notion.site/092-4-e3ca2e8b725f446289cc05a41dd67dd2?pvs=4) 🗒️ [예측](https://changeable-yacht-8d2.notion.site/096-8-ff86f5fde20a4b7fb2bbc1f60a6cf256?pvs=4)
+- 로지스틱 회귀, SVM 🗒️ [노트](https://changeable-yacht-8d2.notion.site/093-5-813cfc3afde441eaa2b1686720f654b8?pvs=4)
+- 다중 회귀 🗒️ [노트](https://changeable-yacht-8d2.notion.site/094-6-6b01fba32f1a437db984ad05de03b1ef?pvs=4)
+- 단순 회귀 🗒️ [노트](https://changeable-yacht-8d2.notion.site/095-7-9f144e7ee835416e80c1634602ded779?pvs=4)
 
 ---
 
